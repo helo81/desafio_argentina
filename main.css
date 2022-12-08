@@ -4,9 +4,24 @@
 .home{
     text-align: right;
 }
+.home a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
 .selecao{
     text-align: center;
 }
+.selecao a{
+    color: black;
+    text-decoration: none;
+}
+
+
 .biografia{
     text-align: left;
+}
+.texto1{
+    max-width: 800px;
 }
