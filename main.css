@@ -1,21 +1,12 @@
-
-#bandeira{
-    background-color: blue;
+.container-img{
+    text-align: center;
 }
-#menu{
-    background-color: cornflowerblue;
+.home{
+    text-align: right;
 }
-#time{
-    background-color: aqua;
+.selecao{
+    text-align: center;
 }
-#jogadores{
-    background-color: brown;
+.biografia{
+    text-align: left;
 }
-#biografia{
-    background-color: chartreuse;
-}
-#anúncio{
-    background-color: chocolate;
-    word: spacing 5px;px
-}
-
